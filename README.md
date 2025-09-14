@@ -8,3 +8,5 @@ Todo list projects are often the first examples used when learning modern framew
 For the drag-and-drop feature, I used the [vue-draggable-plus](https://www.npmjs.com/package/vue-draggable-plus) library.
 
 OldApp.Vue - without the vue-draggable-plus library
+
+[Working Demo](https://rmoulliet88.github.io/todo-vue/)
